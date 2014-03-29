@@ -1,20 +1,15 @@
-
 *{
-	border: 1px dashed black;
-    font-family: Helvetica, David, Arial; 
-    font-weight: normal; 
-    font-style: normal; 
-    text-decoration: none;
+	border: 1px dashed black
 
 }
+#header{
+        Color: red;
+        font-size: 40px;
+ }
+ 
 /*______Logo.1_______*/
 
-img{
-	padding: 20px;
-	margin: 20px 20px 20px 20px;
-	border: 10px;
-	Z-index: 1;
-}
+
 
 
 /* _____Menu bar______*/ 
@@ -80,3 +75,16 @@ img{
 	}
 				
  /*______End Menu Bar______*/
+
+
+
+
+
+
+
+
+
+
+
+
+
